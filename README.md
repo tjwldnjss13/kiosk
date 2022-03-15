@@ -21,6 +21,8 @@ Pedestrian and face detection network using MobileNet and skip connection
 
 Detection algorithm is constructed based on YOLOv2.
 
+![detection](https://user-images.githubusercontent.com/48514976/158398441-e5c5d03f-681a-4e02-a395-fc3cfe6fc84f.JPG)
+
 ### Classification
 
 Age and gender classification network using Mobilenet and CBAM
@@ -41,7 +43,7 @@ Age is predicted in 9 super categories and 9 set of 5-way sub categories.
 
   |mAP|
   |-|
-  |0.35|
+  |0.354|
   
 #### Classification
 
