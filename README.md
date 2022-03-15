@@ -19,6 +19,8 @@ Real-time kiosk user analysis system using pedestrian/face detection and age/gen
 
 Pedestrian and face detection network using MobileNet and skip connection
 
+Detection algorithm is constructed based on YOLOv2.
+
 ### Classification
 
 Age and gender classification network using Mobilenet and CBAM
