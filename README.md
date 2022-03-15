@@ -41,7 +41,7 @@ Age is predicted in 9 super categories and 9 set of 5-way sub categories.
 
   |mAP|
   |-|
-  |0|
+  |0.35|
   
 #### Classification
 
