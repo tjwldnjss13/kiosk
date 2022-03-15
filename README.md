@@ -32,6 +32,23 @@ Age is predicted in 9 super categories and 9 set of 5-way sub categories.
 ![age classification](https://user-images.githubusercontent.com/48514976/158328376-c7409aa8-b67c-4c33-9e29-1e94459f101f.JPG)
 
 ## Results
+
+### Evaluation
+
+  Evaluation using COCO 2014 validation dataset and AFAD-FULL test dataset
+  
+#### Detection
+
+  |mAP|
+  |-|
+  |0|
+  
+#### Classification
+
+  |Age accuracy|Gender accuracy|
+  |-|-|
+  |84.13%|97.32%|
+  
   
 ### Visualization
   
