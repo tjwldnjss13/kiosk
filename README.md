@@ -10,16 +10,16 @@ Real-time kiosk user analysis system using pedestrian/face detection and age/gen
   
   (Source : https://developer.nvidia.com/embedded/jetson-nano-developer-kit)
   
-### Model
+## Model
   
 ![model](https://user-images.githubusercontent.com/48514976/158328202-a90b2bfc-6cc1-4118-b44d-c9fd1ea3fbe2.JPG)
 
   
-#### Detection
+### Detection
 
 Pedestrian and face detection network using MobileNet and skip connection
 
-#### Classification
+### Classification
 
 Age and gender classification network using Mobilenet and CBAM
 
@@ -28,4 +28,19 @@ Age and gender classification network using Mobilenet and CBAM
 Age is predicted in 9 super categories and 9 set of 5-way sub categories.
   
 ![age classification](https://user-images.githubusercontent.com/48514976/158328376-c7409aa8-b67c-4c33-9e29-1e94459f101f.JPG)
+
+## Results
+  
+### Visualization
+  
+Visualization using COCO 2014 validation dataset
+  
+  
+![output1](https://user-images.githubusercontent.com/48514976/158340454-011d0d9c-45b1-4dbe-81c5-adfca8c92492.JPG)
+
+![output2](https://user-images.githubusercontent.com/48514976/158340466-9e20582a-8ae3-4320-bfea-2b7a703217df.JPG)
+
+![output3](https://user-images.githubusercontent.com/48514976/158340475-d435238c-177c-4ce4-89f6-3fbedd08694f.JPG)
+
+
 
